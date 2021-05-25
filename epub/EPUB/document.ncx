@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="de">
+  <head>
+    <meta name="dtb:fidus" content="83" />
+  </head>
+  <docTitle>
+    <text>Eckpunkte einer Public Health Strategie für Deutschland</text>
+  </docTitle>
+  <navMap>
+
+    <!-- 2.01 NCX: playOrder is optional -->
+    <navPoint id="t0">
+      <navLabel><text>Cover</text></navLabel>
+      <content src="cover.xhtml#cover" />
+    </navPoint>
+    <navPoint id="t1">
+      <navLabel><text>Title page</text></navLabel>
+      <content src="titlepage.xhtml#title" />
+    </navPoint>
+    <navPoint id="t_1_0-1">
+      <navLabel><text>Präambel</text></navLabel>
+      <content src="document-1.xhtml#_1_0" />
+    </navPoint>
+    <navPoint id="t_2_0-2">
+      <navLabel><text>Einleitung</text></navLabel>
+      <content src="document-2.xhtml#_2_0" />
+    </navPoint>
+    <navPoint id="t_3_0-3">
+      <navLabel><text>Hintergrundinformation zum Erstellungsprozess</text></navLabel>
+      <content src="document-3.xhtml#_3_0" />
+    </navPoint>
+    <navPoint id="t_4_0-4">
+      <navLabel><text>Kurzzusammenfassung der Kapitel</text></navLabel>
+      <content src="document-4.xhtml#_4_0" />
+      <navPoint id="tH8407018-4">
+        <navLabel><text>Governance: Leitung, Führung und Verantwortung für Gesundheitsfragen sicherstellen</text></navLabel>
+        <content src="document-4.xhtml#H8407018" />
+      </navPoint>
+      <navPoint id="tH1207336-4">
+        <navLabel><text>Nachhaltige Organisationsstrukturen und Finanzierung gewährleisten</text></navLabel>
+        <content src="document-4.xhtml#H1207336" />
+      </navPoint>
+      <navPoint id="tH3926614-4">
+        <navLabel><text>Surveillance: Solide Datengrundlagen schaffen und nutzen</text></navLabel>
+        <content src="document-4.xhtml#H3926614" />
+      </navPoint>
+      <navPoint id="tH3338860-4">
+        <navLabel><text>Gesundheitskrisen durch Planung und verbesserte Strukturen effektiver erkennen und bewältigen</text></navLabel>
+        <content src="document-4.xhtml#H3338860" />
+      </navPoint>
+      <navPoint id="tH1257975-4">
+        <navLabel><text>Multisektoralen Gesundheitsschutz besser verzahnen</text></navLabel>
+        <content src="document-4.xhtml#H1257975" />
+      </navPoint>
+      <navPoint id="tH5259713-4">
+        <navLabel><text>Gesundheit und gesundheitliche Chancengleichheit durch eine gesundheitsförderliche Gesamtpolitik verbessern</text></navLabel>
+        <content src="document-4.xhtml#H5259713" />
+      </navPoint>
+      <navPoint id="tH6816661-4">
+        <navLabel><text>Prävention umfassender verankern</text></navLabel>
+        <content src="document-4.xhtml#H6816661" />
+      </navPoint>
+      <navPoint id="tH3576125-4">
+        <navLabel><text>Voraussetzungen für kompetentes Fachpersonal schaffen</text></navLabel>
+        <content src="document-4.xhtml#H3576125" />
+      </navPoint>
+      <navPoint id="tH1657337-4">
+        <navLabel><text>Kommunikation und Information durch Leitlinien und Partizipation verbessern</text></navLabel>
+        <content src="document-4.xhtml#H1657337" />
+      </navPoint>
+      <navPoint id="tH6200254-4">
+        <navLabel><text>Public-Health-Forschung ausbauen</text></navLabel>
+        <content src="document-4.xhtml#H6200254" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_5_0-5">
+      <navLabel><text>Governance</text></navLabel>
+      <content src="document-5.xhtml#_5_0" />
+      <navPoint id="tH5930285-5">
+        <navLabel><text>Führung und Verantwortung für Gesundheitsfragen sicherstellen (EPHO 6)</text></navLabel>
+        <content src="document-5.xhtml#H5930285" />
+        <navPoint id="tH7836380-5">
+          <navLabel><text>Ausgangslage und Herausforderungen</text></navLabel>
+          <content src="document-5.xhtml#H7836380" />
+        </navPoint>
+        <navPoint id="tH2315756-5">
+          <navLabel><text>Ziele</text></navLabel>
+          <content src="document-5.xhtml#H2315756" />
+        </navPoint>
+        <navPoint id="tH3131394-5">
+          <navLabel><text>Akteur:innen</text></navLabel>
+          <content src="document-5.xhtml#H3131394" />
+        </navPoint>
+        <navPoint id="tH3638826-5">
+          <navLabel><text>Wege</text></navLabel>
+          <content src="document-5.xhtml#H3638826" />
+        </navPoint>
+        <navPoint id="tH4924658-5">
+          <navLabel><text>Weiterführende Literatur</text></navLabel>
+          <content src="document-5.xhtml#H4924658" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_6_0-6">
+      <navLabel><text>Finanzierung</text></navLabel>
+      <content src="document-6.xhtml#_6_0" />
+      <navPoint id="tH8649178-6">
+        <navLabel><text>Gewährleistung von nachhaltigen Organisationsstrukturen (EPHO 8)</text></navLabel>
+        <content src="document-6.xhtml#H8649178" />
+        <navPoint id="tH5298330-6">
+          <navLabel><text>Ausgangslage und Herausforderungen</text></navLabel>
+          <content src="document-6.xhtml#H5298330" />
+        </navPoint>
+        <navPoint id="tH6525104-6">
+          <navLabel><text>Ziele</text></navLabel>
+          <content src="document-6.xhtml#H6525104" />
+        </navPoint>
+        <navPoint id="tH5960220-6">
+          <navLabel><text>Akteur:innen</text></navLabel>
+          <content src="document-6.xhtml#H5960220" />
+        </navPoint>
+        <navPoint id="tH6851907-6">
+          <navLabel><text>Wege</text></navLabel>
+          <content src="document-6.xhtml#H6851907" />
+          <navPoint id="tH4597495-6">
+            <navLabel><text>Sicherung und Koordinierung angemessener organisatorischer Strukturen</text></navLabel>
+            <content src="document-6.xhtml#H4597495" />
+          </navPoint>
+          <navPoint id="tH1666140-6">
+            <navLabel><text>Schaffung von Public-Health-Kompetenzen und -Kapazitäten in Institutionen</text></navLabel>
+            <content src="document-6.xhtml#H1666140" />
+          </navPoint>
+          <navPoint id="tH684582-6">
+            <navLabel><text>Schaffung einer leistungsfähigen Infrastruktur für Forschung und Entwicklung</text></navLabel>
+            <content src="document-6.xhtml#H684582" />
+          </navPoint>
+          <navPoint id="tH9186931-6">
+            <navLabel><text>Schaffung geeigneter Kommunikationsstrategien (s. EPHO 9)</text></navLabel>
+            <content src="document-6.xhtml#H9186931" />
+          </navPoint>
+          <navPoint id="tH2910379-6">
+            <navLabel><text>Sicherstellung gerechter und transparenter Finanzierungsprozesse</text></navLabel>
+            <content src="document-6.xhtml#H2910379" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH5454813-6">
+          <navLabel><text>Weiterführende Literatur</text></navLabel>
+          <content src="document-6.xhtml#H5454813" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_7_0-7">
+      <navLabel><text>Surveillance</text></navLabel>
+      <content src="document-7.xhtml#_7_0" />
+      <navPoint id="tH7538379-7">
+        <navLabel><text>Fakten als Wegbereiter für mehr gesundheitliche Chancengleichheit (EPHO 1)</text></navLabel>
+        <content src="document-7.xhtml#H7538379" />
+        <navPoint id="tH1152577-7">
+          <navLabel><text>Ausgangslage und Herausforderungen</text></navLabel>
+          <content src="document-7.xhtml#H1152577" />
+        </navPoint>
+        <navPoint id="tH8368761-7">
+          <navLabel><text>Ziele</text></navLabel>
+          <content src="document-7.xhtml#H8368761" />
+        </navPoint>
+        <navPoint id="tH3491733-7">
+          <navLabel><text>Akteur:innen</text></navLabel>
+          <content src="document-7.xhtml#H3491733" />
+        </navPoint>
+        <navPoint id="tH4695502-7">
+          <navLabel><text>Wege</text></navLabel>
+          <content src="document-7.xhtml#H4695502" />
+          <navPoint id="tH6252375-7">
+            <navLabel><text>Daten</text></navLabel>
+            <content src="document-7.xhtml#H6252375" />
+          </navPoint>
+          <navPoint id="tH4922749-7">
+            <navLabel><text>Aufbereitung, Analyse, Kontextualisierung</text></navLabel>
+            <content src="document-7.xhtml#H4922749" />
+          </navPoint>
+          <navPoint id="tH8121813-7">
+            <navLabel><text>Berichterstattung</text></navLabel>
+            <content src="document-7.xhtml#H8121813" />
+          </navPoint>
+          <navPoint id="tH1588953-7">
+            <navLabel><text>Wissenstransfer</text></navLabel>
+            <content src="document-7.xhtml#H1588953" />
+          </navPoint>
+          <navPoint id="tH691592-7">
+            <navLabel><text>Infrastrukturen und Ressourcen</text></navLabel>
+            <content src="document-7.xhtml#H691592" />
+          </navPoint>
+          <navPoint id="tH8703837-7">
+            <navLabel><text>Forschung</text></navLabel>
+            <content src="document-7.xhtml#H8703837" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH1868855-7">
+          <navLabel><text>Weiterführende Literatur</text></navLabel>
+          <content src="document-7.xhtml#H1868855" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_8_0-8">
+      <navLabel><text>Krisenplanung und -reaktion</text></navLabel>
+      <content src="document-8.xhtml#_8_0" />
+      <navPoint id="tH1305287-8">
+        <navLabel><text>Gesundheitskrisen effektiv erkennen und bewältigen (EPHO 2)</text></navLabel>
+        <content src="document-8.xhtml#H1305287" />
+        <navPoint id="tH3902609-8">
+          <navLabel><text>Ausgangslage und Herausforderungen</text></navLabel>
+          <content src="document-8.xhtml#H3902609" />
+        </navPoint>
+        <navPoint id="tH6084705-8">
+          <navLabel><text>Ziele</text></navLabel>
+          <content src="document-8.xhtml#H6084705" />
+        </navPoint>
+        <navPoint id="tH2657066-8">
+          <navLabel><text>Akteur:innen</text></navLabel>
+          <content src="document-8.xhtml#H2657066" />
+        </navPoint>
+        <navPoint id="tH8011083-8">
+          <navLabel><text>Wege</text></navLabel>
+          <content src="document-8.xhtml#H8011083" />
+        </navPoint>
+        <navPoint id="tH6094256-8">
+          <navLabel><text>Weiterführende Literatur</text></navLabel>
+          <content src="document-8.xhtml#H6094256" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_9_0-9">
+      <navLabel><text>Multisektoraler Gesundheitsschutz</text></navLabel>
+      <content src="document-9.xhtml#_9_0" />
+      <navPoint id="tH9997734-9">
+        <navLabel><text>Gesundheitsschutz, Arbeitssicherheit, Patientensicherheit (EPHO 3)</text></navLabel>
+        <content src="document-9.xhtml#H9997734" />
+        <navPoint id="tH5940785-9">
+          <navLabel><text>Ausgangslage und Herausforderungen</text></navLabel>
+          <content src="document-9.xhtml#H5940785" />
+        </navPoint>
+        <navPoint id="tH6870933-9">
+          <navLabel><text>Ziele</text></navLabel>
+          <content src="document-9.xhtml#H6870933" />
+        </navPoint>
+        <navPoint id="tH3915233-9">
+          <navLabel><text>Akteur:innen</text></navLabel>
+          <content src="document-9.xhtml#H3915233" />
+        </navPoint>
+        <navPoint id="tH2679358-9">
+          <navLabel><text>Wege</text></navLabel>
+          <content src="document-9.xhtml#H2679358" />
+        </navPoint>
+        <navPoint id="tH8423460-9">
+          <navLabel><text>Weiterführende Literatur</text></navLabel>
+          <content src="document-9.xhtml#H8423460" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_10_0-10">
+      <navLabel><text>Gesundheitsförderung</text></navLabel>
+      <content src="document-10.xhtml#_10_0" />
+      <navPoint id="tH1266352-10">
+        <navLabel><text>Gesundheitliche Chancengleichheit durch eine förderliche Gesamtpolitik verbessern (EPHO 4)</text></navLabel>
+        <content src="document-10.xhtml#H1266352" />
+        <navPoint id="tH3393909-10">
+          <navLabel><text>Ausgangslage und Herausforderungen</text></navLabel>
+          <content src="document-10.xhtml#H3393909" />
+        </navPoint>
+        <navPoint id="tH55937-10">
+          <navLabel><text>Ziele</text></navLabel>
+          <content src="document-10.xhtml#H55937" />
+        </navPoint>
+        <navPoint id="tH5049985-10">
+          <navLabel><text>Akteur:innen</text></navLabel>
+          <content src="document-10.xhtml#H5049985" />
+        </navPoint>
+        <navPoint id="tH1636644-10">
+          <navLabel><text>Wege</text></navLabel>
+          <content src="document-10.xhtml#H1636644" />
+        </navPoint>
+        <navPoint id="tH5850222-10">
+          <navLabel><text>Weiterführende Literatur</text></navLabel>
+          <content src="document-10.xhtml#H5850222" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_11_0-11">
+      <navLabel><text>Prävention</text></navLabel>
+      <content src="document-11.xhtml#_11_0" />
+      <navPoint id="tH7379212-11">
+        <navLabel><text>Krankheiten verhindern oder früh erkennen (EPHO 5)</text></navLabel>
+        <content src="document-11.xhtml#H7379212" />
+        <navPoint id="tH7072444-11">
+          <navLabel><text>Ausgangslage und Herausforderungen</text></navLabel>
+          <content src="document-11.xhtml#H7072444" />
+        </navPoint>
+        <navPoint id="tH6203864-11">
+          <navLabel><text>Ziele</text></navLabel>
+          <content src="document-11.xhtml#H6203864" />
+        </navPoint>
+        <navPoint id="tH1866663-11">
+          <navLabel><text>Akteur:innen</text></navLabel>
+          <content src="document-11.xhtml#H1866663" />
+        </navPoint>
+        <navPoint id="tH3879915-11">
+          <navLabel><text>Wege</text></navLabel>
+          <content src="document-11.xhtml#H3879915" />
+        </navPoint>
+        <navPoint id="tH2442733-11">
+          <navLabel><text>Weiterführende Literatur</text></navLabel>
+          <content src="document-11.xhtml#H2442733" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_12_0-12">
+      <navLabel><text>Ausbildung und Personal</text></navLabel>
+      <content src="document-12.xhtml#_12_0" />
+      <navPoint id="tH3047648-12">
+        <navLabel><text>Kompetentes Fachpersonal für Öffentliche Gesundheit (EPHO 7)</text></navLabel>
+        <content src="document-12.xhtml#H3047648" />
+        <navPoint id="tH3846585-12">
+          <navLabel><text>Ausgangslage und Herausforderungen</text></navLabel>
+          <content src="document-12.xhtml#H3846585" />
+        </navPoint>
+        <navPoint id="tH8508372-12">
+          <navLabel><text>Ziele</text></navLabel>
+          <content src="document-12.xhtml#H8508372" />
+        </navPoint>
+        <navPoint id="tH4085476-12">
+          <navLabel><text>Akteur:innen</text></navLabel>
+          <content src="document-12.xhtml#H4085476" />
+        </navPoint>
+        <navPoint id="tH6656794-12">
+          <navLabel><text>Wege</text></navLabel>
+          <content src="document-12.xhtml#H6656794" />
+          <navPoint id="tH7338081-12">
+            <navLabel><text>Personalplanung – Bedarfsermittlung</text></navLabel>
+            <content src="document-12.xhtml#H7338081" />
+          </navPoint>
+          <navPoint id="tH4073527-12">
+            <navLabel><text>Lehre und Weiterbildung - Vernetzung und Kerncurriculum</text></navLabel>
+            <content src="document-12.xhtml#H4073527" />
+          </navPoint>
+          <navPoint id="tH5760223-12">
+            <navLabel><text>Öffentlicher Gesundheitsdienst - Novellierung</text></navLabel>
+            <content src="document-12.xhtml#H5760223" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH9749657-12">
+          <navLabel><text>Weiterführende Literatur</text></navLabel>
+          <content src="document-12.xhtml#H9749657" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_13_0-13">
+      <navLabel><text>Kommunikation und Information</text></navLabel>
+      <content src="document-13.xhtml#_13_0" />
+      <navPoint id="tH1345889-13">
+        <navLabel><text>Verbesserung durch Partizipation und Leitlinien (EPHO 9)</text></navLabel>
+        <content src="document-13.xhtml#H1345889" />
+        <navPoint id="tH9652558-13">
+          <navLabel><text>Ausgangslage und Herausforderungen</text></navLabel>
+          <content src="document-13.xhtml#H9652558" />
+        </navPoint>
+        <navPoint id="tH5689373-13">
+          <navLabel><text>Ziele</text></navLabel>
+          <content src="document-13.xhtml#H5689373" />
+        </navPoint>
+        <navPoint id="tH1642828-13">
+          <navLabel><text>Akteur:innen</text></navLabel>
+          <content src="document-13.xhtml#H1642828" />
+        </navPoint>
+        <navPoint id="tH7462476-13">
+          <navLabel><text>Wege</text></navLabel>
+          <content src="document-13.xhtml#H7462476" />
+        </navPoint>
+        <navPoint id="tH8908959-13">
+          <navLabel><text>Weiterführende Literatur</text></navLabel>
+          <content src="document-13.xhtml#H8908959" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_14_0-14">
+      <navLabel><text>Public-Health-Forschung</text></navLabel>
+      <content src="document-14.xhtml#_14_0" />
+      <navPoint id="tH1274360-14">
+        <navLabel><text>Ausbau und Anwendung von wissenschaftlichen Erkenntnissen (EPHO 10)</text></navLabel>
+        <content src="document-14.xhtml#H1274360" />
+        <navPoint id="tH349095-14">
+          <navLabel><text>Ausgangslage und Herausforderungen</text></navLabel>
+          <content src="document-14.xhtml#H349095" />
+        </navPoint>
+        <navPoint id="tH3346375-14">
+          <navLabel><text>Ziele</text></navLabel>
+          <content src="document-14.xhtml#H3346375" />
+        </navPoint>
+        <navPoint id="tH1066899-14">
+          <navLabel><text>Akteur:innen</text></navLabel>
+          <content src="document-14.xhtml#H1066899" />
+        </navPoint>
+        <navPoint id="tH6076129-14">
+          <navLabel><text>Wege</text></navLabel>
+          <content src="document-14.xhtml#H6076129" />
+        </navPoint>
+        <navPoint id="tH5137609-14">
+          <navLabel><text>Weiterführende Literatur</text></navLabel>
+          <content src="document-14.xhtml#H5137609" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_15_0-15">
+      <navLabel><text>Fazit</text></navLabel>
+      <content src="document-15.xhtml#_15_0" />
+    </navPoint>
+    <navPoint id="t_16_0-16">
+      <navLabel><text>Impressum</text></navLabel>
+      <content src="document-16.xhtml#_16_0" />
+    </navPoint>
+    <navPoint id="t_17_0-17">
+      <navLabel><text>Anhang Abkürzungen</text></navLabel>
+      <content src="document-17.xhtml#_17_0" />
+    </navPoint>
+  </navMap>
+</ncx>
